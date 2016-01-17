@@ -119,7 +119,7 @@
                 </div>
                             </div>
                         <div class="alternative-signins">
-               Oder melde dich an über:                                    <a href="https://www.facebook.com/v2.2/dialog/oauth?client_id=332893466915193&amp;redirect_uri=http%3A%2F%2Fdatawrapper.de%2Fsignin%2Ffacebook&amp;state=cdc0a46e8c2d386a8ac08438ea5f08c7&amp;sdk=php-sdk-4.0.12&amp;scope="><i class="fa fa-facebook"></i> Facebook</a>
+               Oder melde dich an über:                                    <a href="https://www.facebook.com/v2.2/dialog/oauth?client_id=332893466915193&amp;redirect_uri=http%3A%2F%2Fdatawrapper.de%2Fsignin%2Ffacebook&amp;state=343550cf36f0f806b1039308d0ada3f6&amp;sdk=php-sdk-4.0.12&amp;scope="><i class="fa fa-facebook"></i> Facebook</a>
                                     <a href="/signin/github"><i class="fa fa-github"></i> Github</a>
                                     <a href="/signin/twitter"><i class="fa fa-twitter"></i> Twitter</a>
                             </div>
